@@ -4,5 +4,5 @@ future==0.15.2
 pkg-resources==0.0.0
 pony==0.6.5
 python-telegram-bot==5.0.0
-urllib3==1.16
+urllib3==1.26.5
 youtube-dl==2016.7.16
